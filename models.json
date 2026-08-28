@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Claude 3.7 Sonnet",
+    "providerType": "ANTHROPIC",
+    "baseUrl": "https:\/\/api.anthropic.com\/v1",
+    "apiKey": "",
+    "modelId": "claude-3-7-sonnet-20250219",
+    "maxTokens": 8192,
+    "contextWindowTokens": 200000,
+    "temperature": 0.7,
+    "defaultSystemPrompt": "",
+    "isDefault": false,
+    "supportsVision": true
+  }
+]
