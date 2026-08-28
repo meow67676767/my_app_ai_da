@@ -14,7 +14,7 @@
   },
   {
     "name": "dahl\/MiniMax-M2.7",
-    "providerType": "ANTHROPIC",
+    "providerType": "CUSTOM_OPENAI",
     "baseUrl": "https:\/\/jackal-washed-writing.ngrok-free.dev\/v1",
     "apiKey": "dummy",
     "modelId": "dahl\/MiniMaxAI\/MiniMax-M2.7",
